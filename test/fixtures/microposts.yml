@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  conetn: MyString
+  user_id: 1
+
+two:
+  conetn: MyString
+  user_id: 1
